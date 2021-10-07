@@ -132,12 +132,10 @@ https://github.com/instantfunction/userGuide/blob/main/processingUserRequest.md#
 ### Test Ideas Quickly
 * If you are a front end developer, don't wait for backend to be ready, create a simple function that is good enough for development and get going
 * If you are a backnd developer, don't wait for downstream services to be ready (or don't be blocked if they are down) use instant function and get going
-
-
-### Use Instant Function as A Mock Service
-* Easily deploy dynamic mocks. 
-* Use it as your back end either even if it's an idea for now. 
 * Simulate various cases such as adding a variety of response types, http status codes or simulating server errors and latencies.
+
+### Use Instant Function as A Back End
+* Use it as your back end. Take advantage of various programming languages and libraries such as scipy or R packages to enhance your user interface.
 
 ### Develop Tools and Share with Others
 * Share your function with team mates to help others more effectively develop software. 
